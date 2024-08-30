@@ -2,7 +2,7 @@
 Welcome to Anu Likitha Immadisetty Certifications Repository!
 
 ## Folders
-- [Internship](#internship)
+- [Internship](https://github.com/AnuLikithaImmadisetty/Certifications/tree/main/Internship)
 
 ## Internship 
 In this folder, I have included the following documents:
